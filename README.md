@@ -11,5 +11,4 @@
 | 094 | Gengar | Ghost/Poison | ![Gengar](https://cdn.bulbagarden.net/upload/c/c6/094Gengar.png)|
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
-| 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
 
